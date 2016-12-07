@@ -1,0 +1,19 @@
+{
+  "name": "orivelton",
+  "version": "1.0.0",
+  "description": "CMS Administration",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/orivelton10/CMS_Administration.git"
+  },
+  "author": "Oriveltoon Cesar - www.orivelton.com.br",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/orivelton10/CMS_Administration/issues"
+  },
+  "homepage": "https://github.com/orivelton10/CMS_Administration#readme"
+}
